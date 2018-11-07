@@ -1,0 +1,7 @@
+change to your directory:
+git init
+git status
+git add test2.txt
+git add .
+git commit -m "some change"
+git push githubRepo master
